@@ -4,7 +4,7 @@ Official Pytorch implementation of CVPR 2022 paper "Proactive Image Manipulation
 The paper and supplementary can be found at: 
 
 
-![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
+
 ## Prerequisites
 
 - PyTorch 1.5.0
