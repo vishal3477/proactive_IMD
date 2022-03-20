@@ -14,12 +14,11 @@ The paper and supplementary can be found at:
 ## Getting Started
 
 ## Datasets 
-- Download the dataset for the corressponding GMs from https://drive.google.com/drive/folders/1ZKQ3t7_Hip9DO6uwljZL4rYAn5viSRhu?usp=sharing
-- For leave out experiment, put the training data in train folder and leave out models data in test folder
-- For testing on custom images, put the data in test folder.
+- Every GM is used with different datasets they are trained on. Please refer to Table 2 of the supplementary for GM-dataset information. Download the dataset for the corressponding GMs from https://drive.google.com/file/d/1fAS7Sj3FhS6v31Z2hb9mp9gaGavgnLu5/view?usp=sharing
+- The training data is used as CELEBA-HQ which is provided in the above link as CELEBA_HQ_TRAIN folder.
 
 ## Pre-trained model
-The pre-trained model trained on STGAN can be downloaded from: 
+The pre-trained model trained on STGAN can be downloaded from: https://drive.google.com/file/d/1p9zETa9rCU0wx8wD5Ige2TbCL8WciV7o/view?usp=sharing
 
 ## Training
 - Provide the train and test path in respective codes as sepecified below. 
@@ -33,7 +32,7 @@ python pro_det_train.py
 
 
 ## Testing using pre-trained models
-- Download the pre-trained models from https://drive.google.com/drive/folders/1bzh9Pvr7L-NyQ2Mk-TBSlSq4TkMn2anB?usp=sharing
+- Download the pre-trained models
 - Provide the model path in the code
 - Run the code as shown below:
 
