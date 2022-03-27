@@ -4,7 +4,7 @@ Official Pytorch implementation of CVPR 2022 paper "Proactive Image Manipulation
 The paper and supplementary can be found at: 
 
 
-![alt text](https://github.com/vishal3477/Proactive-image-manipulation-detection/tree/main/images/teaser_3 (Medium).png?raw=true)
+![alt text](https://github.com/vishal3477/Proactive-image-manipulation-detection/tree/main/images/teaser_3_medium.png?raw=true)
 ## Prerequisites
 
 - PyTorch 1.5.0
