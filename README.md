@@ -1,5 +1,7 @@
 # Proactive-image-manipulation-detection
-Official Pytorch implementation of CVPR 2022 paper "Proactive Image Manipulation Detection ".
+Official Pytorch implementation of [CVPR 2022](http://cvpr2021.thecvf.com/) paper "Proactive Image Manipulation Detection ".
+
+[Vishal Asnani](https://github.com/vishal3477), [Xi Yin](https://xiyinmsu.github.io/), [Tal Hassner](https://talhassner.github.io/home/), [Sijia Liu](https://lsjxjtu.github.io/), [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html)
 
 The paper and supplementary can be found at: 
 
