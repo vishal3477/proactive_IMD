@@ -21,23 +21,36 @@ The paper and supplementary can be found at:
 The pre-trained model trained on STGAN can be downloaded from: https://drive.google.com/file/d/1p9zETa9rCU0wx8wD5Ige2TbCL8WciV7o/view?usp=sharing
 
 ## Training
+- Go to the folder STGAN
+- Download the STGAN repository files and pre-trained model from https://github.com/csmliu/STGAN
 - Provide the train and test path in respective codes as sepecified below. 
 - Provide the model path to resume training
-- Run the code as showb below:
+- Run the code as shown below:
 
 ```
-python pro_det_train.py
+python train.py
 ```
 
 
 
 ## Testing using pre-trained models
-- Download the pre-trained models
+- Download the repository files and pre-trained model of GMs in the respective folder, StarGAN: https://github.com/yunjey/stargan , CycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix , GauGAN: https://github.com/NVlabs/SPADE
+- Download the pre-trained model for our template from https://drive.google.com/file/d/1p9zETa9rCU0wx8wD5Ige2TbCL8WciV7o/view?usp=sharing
 - Provide the model path in the code
-- Run the code as shown below:
+- Run the code as shown below for StarGAN:
 
 ```
-python pro_det_test.py
+python test_stargan.py
+```
+- Run the code as shown below for CycleGAN:
+
+```
+python test_cyclegan.py
+```
+- Run the code as shown below for GauGAN:
+
+```
+python test_gaugan.py
 ```
 
 
